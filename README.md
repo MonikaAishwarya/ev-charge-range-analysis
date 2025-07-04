@@ -1,6 +1,6 @@
 # 🚗 EV Charge & Range Analysis – SmartBridge Tableau Project
 
-This repository contains a complete Tableau project built as part of the **SmartBridge Virtual Internship on Data Analytics with Tableau**. The project focuses on analyzing electric vehicles and EV charging infrastructure using data from Indian and global sources.
+This repository contains my complete Tableau project built as part of the **SmartBridge Virtual Internship on Data Analytics with Tableau**. The project focuses on analyzing electric vehicle (EV) performance and charging infrastructure using both Indian and global datasets.
 
 ---
 
@@ -13,8 +13,22 @@ This repository contains a complete Tableau project built as part of the **Smart
 
 ## 📁 Files Included
 
-- `Project-EV.twbx` – Tableau packaged workbook with dashboards and story  
-- `EV_Dashboards.pdf` – Exported PDF containing all dashboard views  
+### 📂 Tableau Files:
+- `Project-EV.twbx` – Tableau packaged workbook with all dashboards and story  
+- `EV_Dashboards.pdf` – Exported PDF containing all dashboard views
+
+### 📂 Datasets:
+- `EVIndia.csv`  
+- `Electric_vehicle_charging_station_list.csv`  
+- `ElectricCarData_Clean.csv`  
+- `Cheapestelectriccars-EVDatabase.csv`  
+
+### 📂 Assignments:
+- `Assignment1.pdf`  
+- `Assignment2.pdf`  
+- `Assignment3.pdf`  
+
+### 📄 Documentation:
 - `README.md` – Project summary and documentation
 
 ---
@@ -53,9 +67,20 @@ This repository contains a complete Tableau project built as part of the **Smart
 
 - Tableau Public  
 - GitHub  
-- Microsoft Excel (for CSV cleaning)
+- Microsoft Excel / Google Sheets (for data cleaning & preparation)
+
+---
+
+## 🌟 Internship Experience Reflection
+
+> The **SmartBridge Virtual Internship** was a valuable and enriching experience.  
+>
+> When I started this internship, I had **zero prior knowledge of Tableau**. However, through the structured learning path, hands-on assignments, and project work, I now feel **confident in using Tableau to create professional dashboards, stories, and data visualizations**.  
+>
+> This internship has significantly improved my technical skills and boosted my confidence in working with real-world datasets.  
+>
+> **Thank you, SmartBridge, for making me knowledgeable and skilled in Tableau.**
 
 ---
 
 > 📌 **Submitted as part of the SmartBridge Virtual Internship – Data Analytics with Tableau.**
-
