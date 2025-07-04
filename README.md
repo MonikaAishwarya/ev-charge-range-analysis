@@ -1,62 +1,54 @@
 🚗 Electric Vehicle Charge & Range Analysis — Data Analytics Project
-Welcome to the Electric Vehicle Charge & Range Analysis repository!
-This project focuses on analyzing multiple electric vehicle (EV) datasets using Tableau to uncover key insights about EVs in India and globally 🌏.
+Welcome to the Electric Vehicle Charge & Range Analysis project repository!
+This project focuses on analyzing multiple electric vehicle (EV) datasets using Tableau to uncover key insights about EVs in India and globally.
 
 📋 Project Overview
-The Electric Vehicle (EV) industry is accelerating rapidly 🚀, driven by advancements in battery technologies, EV analytics, and charging infrastructure.
+The Electric Vehicle (EV) industry is rapidly evolving, driven by advancements in battery technologies, EV analytics, and charging infrastructure.
 
-This project analyzes data from multiple sources to visualize:
+This project aims to analyze data from multiple sources to visualize EV market trends, charging station distributions, pricing, efficiency, and vehicle characteristics.
 
-EV market trends
+🎯 Objectives
+Analyze EV market trends using real-world datasets.
 
-Charging station distribution
+Visualize the distribution of EV charging stations in India.
 
-Pricing
+Compare EV car models by speed, price, efficiency, and other key parameters.
 
-Efficiency
+Summarize EV availability by brand, body style, and drivetrain type.
 
-Vehicle characteristics
-
-All through impactful visual dashboards & stories.
-
-🎯 Project Objectives
-✅ Analyze EV market trends using real-world datasets
-✅ Visualize the distribution of EV charging stations in India
-✅ Compare EV car models by speed, price, efficiency, & more
-✅ Summarize EV availability by brand, body style, and drivetrain type
-✅ Create engaging dashboards and stories to present key insights
+Create intuitive dashboards and stories to represent the findings.
 
 🗃️ Repository Structure
-📂 Folder Name	📄 Description
-1. Datasets	Raw CSV datasets used for analysis
-2. Tableau File	Tableau Workbook (.twbx) with dashboards & stories
-3. Screenshots of Dashboard	Images/screenshots of dashboards
-4. Screenshots of Story	Images/screenshots of the Tableau Story
-5. Public Links of Dashboard and Story	Links to Tableau Public Dashboard & Story
-6. Final Report	Final project report (PDF)
-7. Video Demonstration	Video demonstration of the project
-8. Assignments	Assignments submitted during the internship
+Folder Name	Description
+1. Datasets	Contains the raw CSV datasets used for analysis.
+2. Tableau File	Tableau workbook (.twbx) file containing dashboards and stories.
+3. Screenshots of Dashboard	Images/screenshots of dashboards created in Tableau.
+4. Screenshots of Story	Images/screenshots of the Tableau story created for this project.
+5. Public Links of Dashboard and Story	Text file with Tableau Public links for dashboard and story.
+6. Final Report	The detailed final project report (PDF).
+7. Video Demonstration	Recorded video demonstrating the project flow and outcomes.
+8. Assignments	Course-related assignments completed during this internship.
 
-📊 Key Visualizations Created
-⚡ EV Charging Stations by Region & Type in India
+📊 Key Visualizations
+EV Charging Stations by Region and Type in India
 
-🗺️ EV Charging Stations Map of India
+EV Charging Stations Map of India
 
-🚘 Different EV Cars in India
+Different EV Cars in India
 
-🏎️ Top Speed Comparison by EV Brands
+Top Speed Comparison by EV Brands
 
-💰 EV Car Prices in India
+EV Car Prices in India
 
-🔋 Top 10 Most Efficient EV Brands
+Top 10 Most Efficient EV Brands
 
-🚙 Brands by Body Style
+Brands According to Body Style
 
-⚙️ Brands Filtered by PowerTrain Type
+Brands Filtered by PowerTrain Type
 
-📈 Number of Models by Each Brand
+Number of Models by Each Brand
 
-📊 Summary Cards for Global & Indian EV Markets
+Summary Cards for Global and Indian EV Markets
 
 🔗 Important Links
 GitHub Repository: EV Charge & Range Analysis Repo
@@ -66,26 +58,26 @@ Tableau Dashboard: View Dashboard
 Tableau Story: View Story
 
 ✨ Tools & Technologies Used
-Tableau Public – Data Visualization Tool
+Tableau Public (for data visualization)
 
-GitHub – Project Hosting & Version Control
+GitHub (for project hosting & collaboration)
 
-CSV Datasets – Data Source
+CSV Datasets (for analysis)
 
 🌟 Internship Experience Reflection
-🎓 The SmartBridge Virtual Internship has been an incredibly enriching experience!
+The SmartBridge Virtual Internship was a valuable and enriching experience.
 
-I started this internship with zero prior knowledge of Tableau. However, through their structured learning, hands-on assignments, and project work, I now feel confident in using Tableau to create professional dashboards, stories, and compelling data visualizations.
+When I started this internship, I had zero prior knowledge of Tableau. However, through the structured learning path, hands-on assignments, and project work, I now feel confident in using Tableau to create professional dashboards, stories, and data visualizations.
 
-This internship has significantly boosted my technical skills, sharpened my data analysis abilities, and improved my confidence in working with real-world data.
+This internship has significantly improved my technical skills and boosted my confidence in working with real-world datasets.
 
-💡 Huge thanks to SmartBridge for making me skilled and knowledgeable in Tableau!
+Thank you, SmartBridge, for making me knowledgeable and skilled in Tableau.
 
 📌 Project Highlights
-✅ Entire project—from dataset analysis to dashboards & story creation—was independently completed by Vegesna Monika Aishwarya.
+Entire project — from dataset analysis to dashboard and story creation — was independently completed by Vegesna Monika Aishwarya.
 
-✅ Includes all project materials: datasets, Tableau files, screenshots, reports, video demo, and assignments.
+Repository includes all supporting files: datasets, Tableau workbook, visual outputs, reports, and video demonstration.
 
-✅ This is a complete portfolio-worthy project demonstrating strong data analytics and visualization skills.
+A comprehensive data analytics project, ideal for portfolio showcasing.
 
-📝 Submitted as part of the SmartBridge Virtual Internship – Data Analytics with Tableau
+Submitted as part of the SmartBridge Virtual Internship – Data Analytics with Tableau.
