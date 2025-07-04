@@ -1,75 +1,67 @@
-# 🚗 EV Charge & Range Analysis – SmartBridge Tableau Project
+🚗 Electric Vehicle Charge & Range Analysis — Data Analytics Project
+Welcome to the Electric Vehicle Charge & Range Analysis project repository!
+This project focuses on analyzing multiple electric vehicle (EV) datasets using Tableau to uncover key insights about EVs in India and globally.
 
-This repository contains my complete Tableau project built as part of the **SmartBridge Virtual Internship on Data Analytics with Tableau**. The project focuses on analyzing electric vehicle (EV) performance and charging infrastructure using both Indian and global datasets.
+📋 Project Overview
+The Electric Vehicle (EV) industry is rapidly evolving, driven by advancements in battery technology, EV analytics, and charging infrastructure.
+This project aims to analyze data from multiple sources to visualize EV market trends, charging station distributions, pricing, efficiency, and vehicle characteristics.
 
----
+🎯 Objectives
+Analyze EV market trends using real-world datasets.
 
-## 📌 Tableau Public Links
+Visualize the distribution of EV charging stations in India.
 
-- 🔗 [View Tableau Story](https://public.tableau.com/views/Project-EV/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
-- 🔗 [View Main Dashboard](https://public.tableau.com/views/Project-EV/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Compare EV car models by speed, price, efficiency, and other key parameters.
 
----
+Summarize EV availability by brand, body style, and drivetrain type.
 
-## 📁 Files Included
+Create intuitive dashboards and stories to represent the findings.
 
-### 📂 Tableau Files:
-- `Project-EV.twbx` – Tableau packaged workbook with all dashboards and story  
-- `EV_Dashboards.pdf` – Exported PDF containing all dashboard views
+🗃️ Repository Structure
+Folder Name	Description
+1. Datasets	Contains the raw CSV datasets used for analysis.
+2. Tableau File	Tableau workbook (.twbx) file containing dashboards and stories.
+3. Screenshots of Dashboard	Images/screenshots of dashboards created in Tableau.
+4. Screenshots of Story	Images/screenshots of the Tableau story created for this project.
+5. Public Links of Dashboard and Story	Text file with Tableau Public links for dashboard and story.
+6. Final Report	The detailed final project report (PDF).
+7. Video Demonstration	Recorded video demonstrating the project flow and outcomes.
+8. Assignments	Course-related assignments completed during this internship.
 
-### 📂 Datasets:
-- `EVIndia.csv`  
-- `Electric_vehicle_charging_station_list.csv`  
-- `ElectricCarData_Clean.csv`  
-- `Cheapestelectriccars-EVDatabase.csv`  
+📊 Key Visualizations
+EV Charging Stations by Region and Type in India
 
-### 📂 Assignments:
-- `Assignment1.pdf`  
-- `Assignment2.pdf`  
-- `Assignment3.pdf`  
+EV Charging Stations Map of India
 
-### 📄 Documentation:
-- `README.md` – Project summary and documentation
+Different EV Cars in India
 
----
+Top Speed Comparison by EV Brands
 
-## 📊 Visualizations Included
+EV Car Prices in India
 
-- Charging Stations by Region and Type in India  
-- EV Charging Stations Map of India  
-- Different EV Cars in India  
-- Top Speed for Different Brands  
-- Price Comparison of EVs in India  
-- Top 10 Most Efficient EV Brands  
-- Brands Categorized by Body Style  
-- Brand Filtered by PowerTrain Type  
-- Number of Models by Each Brand  
-- Summary Cards for Global & Indian EV Brands  
+Top 10 Most Efficient EV Brands
 
----
+Brands According to Body Style
 
-## 👥 Team Members
+Brands Filtered by PowerTrain Type
 
-- D. N.  
-- S. A.  
-- V. Monika Aishwarya  
-- V. T.
+Number of Models by Each Brand
 
----
+Summary Cards for Global and Indian EV Markets
 
-## 🎓 Faculty Mentor
+🔗 Important Links
+GitHub Repository: EV Charge & Range Analysis Repo
 
-**P. Venkata Rama Raju**
+Tableau Dashboard: View Dashboard
 
----
+Tableau Story: View Story
 
-## 🛠️ Tools Used
+✨ Tools & Technologies Used
+Tableau Public (for data visualization)
 
-- Tableau Public  
-- GitHub  
-- Microsoft Excel / Google Sheets (for data cleaning & preparation)
+GitHub (for project hosting & collaboration)
 
----
+CSV Datasets (for analysis)
 
 ## 🌟 Internship Experience Reflection
 
@@ -82,5 +74,11 @@ This repository contains my complete Tableau project built as part of the **Smar
 > **Thank you, SmartBridge, for making me knowledgeable and skilled in Tableau.**
 
 ---
+📌 Project Highlights
+Entire project — from dataset analysis to dashboard and story creation — was independently completed by Vegesna Monika Aishwarya.
+
+Repository includes all supporting files: datasets, Tableau workbook, visual outputs, reports, and video demonstration.
+
+A comprehensive data analytics project, ideal for portfolio showcasing.
 
 > 📌 **Submitted as part of the SmartBridge Virtual Internship – Data Analytics with Tableau.**
